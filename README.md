@@ -16,7 +16,7 @@
 [의사결정나무](https://github.com/JOOHOJUN/Myscatch_Machine_Learning/blob/master/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%EB%82%98%EB%AC%B4.ipynb)<br>
 [의사결정나무-라이브러리](https://github.com/JOOHOJUN/Myscatch_Machine_Learning/blob/master/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%EB%82%98%EB%AC%B4_%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.ipynb)<br>
 
-데이터파일은 없습니다.
+데이터파일은 용량초과로 별도로 구하셔야합니다.
 
 코드 출처 :
 
