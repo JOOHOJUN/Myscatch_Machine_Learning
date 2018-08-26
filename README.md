@@ -6,7 +6,7 @@
 [경사하강법](https://github.com/JOOHOJUN/Myscatch_Machine_Learning/blob/master/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/%EA%B2%BD%EC%82%AC%ED%95%98%EA%B0%95%EB%B2%95.ipynb)<br>
 [기계학습기초이론](https://github.com/JOOHOJUN/Myscatch_Machine_Learning/blob/master/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%EA%B8%B0%EC%B4%88%EC%9D%B4%EB%A1%A0.ipynb)<br>
 [로지스틱회귀](https://github.com/JOOHOJUN/Myscatch_Machine_Learning/blob/master/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%ED%9A%8C%EA%B7%80.ipynb)<br>
-[신경망기초이론](https://github.com/JOOHOJUN/Myscatch_Machine_Learning/blob/master/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/%EC%8B%A0%EA%B2%BD%EB%A7%9D%EA%B8%B0%EC%B4%88%EC%9D%B4%EB%A1%A0.ipynb)<br>
+[딥러닝 - 기초이론부터 CNN까지](https://github.com/JOOHOJUN/Myscatch_Machine_Learning/blob/master/%EB%94%A5%EB%9F%AC%EB%8B%9D/)<br>
 [K-교차검증](https://github.com/JOOHOJUN/Myscatch_Machine_Learning/blob/master/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/K-fold%20Cross-validation(K%20%EB%B6%84%ED%95%A0%20%EA%B5%90%EC%B0%A8%EA%B2%80%EC%A6%9D).ipynb)<br>
 [SVM-라이브러리](https://github.com/JOOHOJUN/Myscatch_Machine_Learning/blob/master/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/SupportVectorMachine_%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.ipynb)<br>
 [GloVe](https://github.com/JOOHOJUN/Myscatch_Machine_Learning/blob/master/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/GloVe.ipynb)<br>
